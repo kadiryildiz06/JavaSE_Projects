@@ -15,7 +15,12 @@ public class JavaApplication86 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         int a=5;
+=======
+        // TODO code application logic here
+        boolean c=true;
+>>>>>>> develop_issue_1
     }
     
 }
