@@ -31,11 +31,11 @@ public class JavaTutorialConstructor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Insan ali=new Insan();//Default Constructor
+        Insan ali=new Insan();//Default Constructor
         Insan veli=new Insan(180,50,20);
-//        ali.boy=180;
-//        ali.kilo=80;
-//        ali.yas=24;
+        ali.boy=180;
+        ali.kilo=80;
+        ali.yas=24;
     }
     
 }
