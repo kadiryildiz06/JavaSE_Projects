@@ -13,7 +13,11 @@ public class Sekreter extends Calisan {
     private int sayac=0;
     private String adres;
     int yas;
-
+    boolean sigara;
+    public boolean isSigara()
+    {
+        return sigara;
+    }
     public int getYas() {
         return yas;
     }
